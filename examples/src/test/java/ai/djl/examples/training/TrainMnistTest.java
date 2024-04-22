@@ -44,7 +44,9 @@ public class TrainMnistTest {
 
             expectedProb = 0.9;
         } else {
-            String[] args = new String[] {"-g", "1", "-m", "2"};
+            // String[] args = new String[] {"-g", "1", "-m", "2"};
+            // From https://docs.djl.ai/examples/docs/train_mnist_mlp.html:
+            String[] args = new String[] {"-e", "5", "-b", "64", "-o", "mlp_model"};
 
             TrainMnist.runExample(args);
             expectedProb = 0;
