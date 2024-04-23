@@ -53,7 +53,8 @@ public final class BertQaInference {
     }
 
     public static String predict() throws IOException, TranslateException, ModelException {
-        String question = "When did BBC Japan start broadcasting?";
+        //String question = "When did BBC Japan start broadcasting?";
+        String question = "Why did BBC Japan stop broadcasting?";
         String paragraph =
                 "BBC Japan was a general entertainment Channel. "
                         + "Which operated between December 2004 and April 2006. "
