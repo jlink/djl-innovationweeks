@@ -1,1 +1,12 @@
 - Lessons learned on Java for ML: https://www.youtube.com/watch?v=OASl-ds5B5Y
+- Java-friendly ML with JSR 381 (VisRec): https://www.youtube.com/watch?v=kNHo_0SdzG4
+  Architecture Overview starting at 0:30:58
+  https://github.com/JavaVisRec/visrec-api
+- ML in Java, Yes it's possible: https://www.youtube.com/watch?v=ch73hs-qnPk
+  Overview over VisRec, Deeplearning4j, DJL and Oracle Tribuo
+  "When to use" at 0:30:10
+- Tribuo - ML library from Oracle: https://tribuo.org/ and https://github.com/oracle/tribuo
+  Focus on traditional ML algorithms not deep learning
+  Tutorials: https://tribuo.org/learn/4.3/tutorials/
+- Eclipse Deeplearning4j: https://deeplearning4j.org/ and https://deeplearning4j.konduit.ai/
+- Java ML Tutorial using Deeplearning4j: https://www.youtube.com/playlist?list=PLw-lNJnl6zG9zQ1aDKWnUBwd4eC2JAG6_
